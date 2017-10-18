@@ -1,0 +1,141 @@
+.body {
+	margin:0;
+	padding:0;
+	
+    }
+<!---導覽列--->
+
+.titlebt{
+	
+	width:8em;
+	height:5.5em;
+	
+	}
+.titleimg{
+	width:20%;
+	height:20%;
+	float:left;
+	margin-top:1em;
+	margin-left:1.5em;
+	margin-bottom:0.5em;
+	}
+
+.header{
+	padding-top:1.5em;
+	}
+.headerimg{
+	width:2em;
+	height:2em;
+	display: inline-block;
+	}
+.header ul{
+float:right;
+list-style:none;
+
+  }
+
+.header ul li{
+ float:left;
+ margin-right:0.7em;
+}
+.group{
+	width:1.8em;
+	height:1.8em;
+	float:left;
+	display: inline-block;
+	}
+<!---內容--->
+.content{
+	
+	}
+section#intro-header {
+  background-image:url(../imgs/bg.png);
+  background-size:cover;
+}
+section#intro-header .wrap-headline {
+  position: relative;
+  padding-top: 20%;
+ }
+section#intro-header2{
+  background-size:cover;
+}
+section#intro-header2 .wrap-headline {
+  position: relative;
+  padding-top: 20%;
+ }
+.girl{
+	margin-left:1.8em;
+	
+	
+	
+	}
+.text{
+	align-items:center}
+<!--標籤--->
+.tab-bar {
+	width: 100%;
+	height: 48px;
+	position: absolute;
+	z-index: 2;
+	bottom: 0;
+	left: 0;
+	
+}
+.tab-bar ul{
+	margin-right:4em;
+	list-style:none;
+	
+	}
+
+.tab-bar li {
+	float: left;
+	width: 25%;
+	height: 48px;
+	border: 1px solid #e0e0e0;
+	box-sizing: border-box;
+	background-color:#f0aa90;
+	border-color:#f0aa90;
+	position: relative;
+	
+}
+
+.tab-bar li:first-child {
+	border-right: none;
+}
+
+.tab-bar a {
+	padding: 5px 0;
+	display: block;
+	text-align: center;
+	color: #263238;
+	text-decoration: none;
+	
+}
+
+.tab-bar li .category-name {
+	font-size: 12px;
+	padding-top: 5px;
+	display: block;
+}
+.category-name{
+	
+	text-indent:-9999px}
+.icon1{
+	background-image:url(../imgs/icon1.png);
+	}
+.icon2{
+	background-image:url(../imgs/icon2.png);
+	}
+.icon3{
+	background-image:url(../imgs/icon3.png);
+	}
+.icon4{
+	background-image:url(../imgs/icon4.png);
+	}
+	
+
+ 
+  
+
+
+
